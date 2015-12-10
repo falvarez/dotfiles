@@ -1,0 +1,7 @@
+[user]
+	name = falvarez
+	email = fede.alvarez@gmail.com
+[core]
+	autocrlf = input
+[alias]
+	l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
